@@ -19,7 +19,7 @@
 </div>
 
 <div class="rightBlock">
-	<img src="img/SAM_4257.jpg" alt="myFoto" title="I">
+	<img src="img/567.png" alt="myFoto" title="I">
 </div>
 </div>
 <div>
